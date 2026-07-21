@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "firmware": "https://gokul80693.github.io/medwatch-ota/firmware_v1.1.4.bin",
-  "sha256": "659F7C4FD7EEF4522CC368E24D0B0111DFC3D60FB7F2EA429F50037065DD4FD0"
+  "version": "1.1.5",
+  "firmware": "https://gokul80693.github.io/medwatch-ota/firmware_v1.1.5.bin",
+  "sha256": "4DEF05AD4B5AF65FDA8F047F06374A07BB1D62E57E24561BCE326CBE781B832C"
 }
